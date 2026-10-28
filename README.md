@@ -4,6 +4,17 @@ This repository is a **mirror of the Pikafish xiangqi engine source code**,
 kept as the GPLv3 "corresponding source" home for the engine build evaluated
 for the SynerWorlds Xiangqi web game (PacClone, cotuong.synerworlds.com).
 
+## Play Xiangqi at SynerWorlds
+
+This mirror is maintained by the **SynerWorlds** team. Pikafish itself is
+**not** currently shipped in the game — its NNUE weights require the
+authors' written permission, which we have requested and are awaiting.
+The live Xiangqi game today runs the Fairy-Stockfish engine (see the
+`FairyStockfish` mirror repo):
+
+- **Xiangqi (Cờ Tướng):** https://cotuong.synerworlds.com
+- **All SynerWorlds games:** https://synerworlds.com
+
 - **Upstream:** https://github.com/official-pikafish/Pikafish
 - **Mirrored commit:** `9d7833aa113626b3ea63ad83f49fb9b456bd5839`
   (upstream `master`, 2026-10-25, identifies itself as `Pikafish dev-20261026-9d7833aa`)
